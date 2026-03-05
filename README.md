@@ -1,2 +1,3 @@
 # dbviz.dev
-Code for dbviz.dev website
+
+Visualizations for all kinds of Database related concepts
